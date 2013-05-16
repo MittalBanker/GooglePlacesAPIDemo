@@ -1,0 +1,399 @@
+TGooglePlacesAPIDemo
+v7
+r0
+t332351574.883119
+cCheck dependencies
+cProcessInfoPlistFile /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/Info.plist GooglePlacesAPIDemo/GooglePlacesAPIDemo-Info.plist
+cProcessPCH /var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch.gch GooglePlacesAPIDemo/GooglePlacesAPIDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/main.o /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GooglePlacesAPIDemoAppDelegate.o /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemoAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/PlacesTableViewController.o /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/PlacesTableViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GDataXMLNode.o /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/XMLSupport/GDataXMLNode.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/MapViewController.o /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/MapViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/MyMapAnnot.o /Users/mayur/Desktop/GooglePlacesAPIDemo/MyMapAnnot.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo normal i386
+cGenerateDSYMFile /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app.dSYM /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo
+cCopyStringsFile /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/en.lproj/InfoPlist.strings GooglePlacesAPIDemo/en.lproj/InfoPlist.strings
+cCompileXIB /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/en.lproj/MainWindow.xib
+cTouch /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/parser.h
+c000000004CC10DA500000000000098A9
+t1287720357
+s39081
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/tree.h
+c000000004CC10DA50000000000008F14
+t1287720357
+s36628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xmlstring.h
+c000000004CC10DA5000000000000155A
+t1287720357
+s5466
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004CC10DA50000000000003F47
+t1287720357
+s16199
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004CC10DA50000000000004BF8
+t1287720357
+s19448
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemo-Prefix.pch
+c000000004DFF097E0000000000000158
+t1308559742
+s344
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemoAppDelegate.h
+c000000004DFF097E0000000000000151
+t1308559742
+s337
+i<UIKit/UIKit.h>
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemoAppDelegate.m
+c000000004DFF17040000000000000A08
+t1308563204
+s2568
+i"GooglePlacesAPIDemoAppDelegate.h"
+i"PlacesTableViewController.h"
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/MapViewController.h
+c000000004DFF18670000000000000246
+t1308563559
+s582
+i<UIKit/UIKit.h>
+i"MapKit/MapKit.h"
+i"MyMapAnnot.h"
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/MapViewController.m
+c000000004DFF1DA500000000000007AD
+t1308564901
+s1965
+i"MapViewController.h"
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/PlacesTableViewController.h
+c000000004DFF172600000000000001D5
+t1308563238
+s469
+i<UIKit/UIKit.h>
+i"GDataXMLNode.h"
+i"MapViewController.h"
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/PlacesTableViewController.m
+c000000004E1E753F0000000000001690
+t1310618943
+s5776
+i"PlacesTableViewController.h"
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/XMLSupport/GDataXMLNode.h
+c000000004CD90EA60000000000001C65
+t1289293478
+s7269
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/xmlstring.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i"GDataDefines.h"
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/XMLSupport/GDataXMLNode.m
+c000000004CF5DB6C000000000000C8CA
+t1291180908
+s51402
+i"GDataXMLNode.h"
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/en.lproj/InfoPlist.strings
+c000000004DFF097E000000000000002D
+t1308559742
+s45
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/en.lproj/MainWindow.xib
+c000000004DFF097E000000000000213C
+t1308559742
+s8508
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/main.m
+c000000004DFF097E000000000000016B
+t1308559742
+s363
+i<UIKit/UIKit.h>
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/MyMapAnnot.h
+c000000004DFF165E00000000000001B3
+t1308563038
+s435
+i<Foundation/Foundation.h>
+i"MapKit/MapKit.h"
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/MyMapAnnot.m
+c000000004DFF169B000000000000024D
+t1308563099
+s589
+i"MyMapAnnot.h"
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app
+t1310658774
+s204
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app.dSYM
+t1310658774
+s102
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo
+t1310658774
+s81444
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/Info.plist
+t1310658773
+s826
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/PkgInfo
+t1310658773
+s8
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/en.lproj/InfoPlist.strings
+t1310658774
+s42
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/en.lproj/MainWindow.nib
+t1310658774
+s1543
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GDataXMLNode.o
+t1310658774
+s108056
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GooglePlacesAPIDemo.LinkFileList
+c000000004E1F10D500000000000003C2
+t1310658773
+s962
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GooglePlacesAPIDemoAppDelegate.o
+t1310658774
+s52224
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/MapViewController.o
+t1310658774
+s39064
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/MyMapAnnot.o
+t1310658774
+s7476
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/PlacesTableViewController.o
+t1310658774
+s52592
+
+N/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/main.o
+t1310658774
+s3116
+
+N/var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch.gch
+t1310658774
+s11992272
+
+NGooglePlacesAPIDemo/GooglePlacesAPIDemo-Info.plist
+c000000004DFF097E000000000000049E
+t1308559742
+s1182
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332351573#332351573#0(0"0(0#1#0"8624927712#0"0#
+
+CCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GDataXMLNode.o /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/XMLSupport/GDataXMLNode.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s332351574.209709
+e332351574.445606
+r1
+xCompileC
+xbuild/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GDataXMLNode.o
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/XMLSupport/GDataXMLNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@94"Compile /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/XMLSupport/GDataXMLNode.m332351574#332351574#0(0"0(0#0#86"/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/XMLSupport/GDataXMLNode.m8631416640#2418"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-generated-files.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-own-target-headers.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-project-headers.hmap -F/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch -c /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/XMLSupport/GDataXMLNode.m -o /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GDataXMLNode.o0#
+
+CCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GooglePlacesAPIDemoAppDelegate.o /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemoAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s332351574.207895
+e332351574.375360
+r1
+xCompileC
+xbuild/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GooglePlacesAPIDemoAppDelegate.o
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@101"Compile /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemoAppDelegate.m332351574#332351574#0(0"0(0#0#93"/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemoAppDelegate.m8631854176#2443"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-generated-files.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-own-target-headers.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-project-headers.hmap -F/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch -c /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemoAppDelegate.m -o /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GooglePlacesAPIDemoAppDelegate.o0#
+
+CCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/MapViewController.o /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/MapViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s332351574.292847
+e332351574.396286
+r1
+xCompileC
+xbuild/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/MapViewController.o
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@88"Compile /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/MapViewController.m332351574#332351574#0(0"0(0#0#80"/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/MapViewController.m8631198048#2417"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-generated-files.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-own-target-headers.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-project-headers.hmap -F/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch -c /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/MapViewController.m -o /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/MyMapAnnot.o /Users/mayur/Desktop/GooglePlacesAPIDemo/MyMapAnnot.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s332351574.373929
+e332351574.429557
+r1
+xCompileC
+xbuild/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/MyMapAnnot.o
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/MyMapAnnot.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@61"Compile /Users/mayur/Desktop/GooglePlacesAPIDemo/MyMapAnnot.m332351574#332351574#0(0"0(0#0#53"/Users/mayur/Desktop/GooglePlacesAPIDemo/MyMapAnnot.m8634744928#2383"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-generated-files.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-own-target-headers.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-project-headers.hmap -F/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch -c /Users/mayur/Desktop/GooglePlacesAPIDemo/MyMapAnnot.m -o /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/MyMapAnnot.o0#
+
+CCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/PlacesTableViewController.o /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/PlacesTableViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s332351574.208699
+e332351574.373745
+r1
+xCompileC
+xbuild/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/PlacesTableViewController.o
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/PlacesTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@96"Compile /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/PlacesTableViewController.m332351574#332351574#0(0"0(0#0#88"/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/PlacesTableViewController.m8631669472#2433"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-generated-files.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-own-target-headers.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-project-headers.hmap -F/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch -c /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/PlacesTableViewController.m -o /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/PlacesTableViewController.o0#
+
+CCompileC build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/main.o /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s332351574.207023
+e332351574.292705
+r1
+xCompileC
+xbuild/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/main.o
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@75"Compile /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/main.m332351574#332351574#0(0"0(0#0#67"/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/main.m8627926912#2391"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-generated-files.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-own-target-headers.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-project-headers.hmap -F/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch -c /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/main.m -o /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/en.lproj/MainWindow.xib
+s332351574.540390
+e332351574.880101
+r1
+xCompileXIB
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/en.lproj/MainWindow.xib
+lSLF07#2@54"CompileXIB GooglePlacesAPIDemo/en.lproj/MainWindow.xib332351574#332351574#0(0"0(0#0#84"/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/en.lproj/MainWindow.xib8631664512#626"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/en.lproj/MainWindow.nib /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/en.lproj/InfoPlist.strings GooglePlacesAPIDemo/en.lproj/InfoPlist.strings
+s332351574.539524
+e332351574.688735
+r1
+xCopyStringsFile
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/en.lproj/InfoPlist.strings
+xGooglePlacesAPIDemo/en.lproj/InfoPlist.strings
+lSLF07#2@51"Copy GooglePlacesAPIDemo/en.lproj/InfoPlist.strings332351574#332351574#0(0"0(0#0#87"/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/en.lproj/InfoPlist.strings8631975904#519"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary GooglePlacesAPIDemo/en.lproj/InfoPlist.strings --outdir /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/en.lproj0#
+
+CGenerateDSYMFile /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app.dSYM /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo
+s332351574.512686
+e332351574.539422
+r1
+xGenerateDSYMFile
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app.dSYM
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/GooglePlacesAPIDemo.app.dSYM build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo332351574#332351574#0(0"0(0#0#112"/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo8632192960#425"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo -o /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app.dSYM0#
+
+CLd /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo normal i386
+s332351574.445692
+e332351574.512582
+r1
+xLd
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo
+xnormal
+xi386
+lSLF07#2@117"Link /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo332351574#332351574#0(0"0(0#0#0"8634121184#1009"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator -F/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator -filelist /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/Objects-normal/i386/GooglePlacesAPIDemo.LinkFileList -mmacosx-version-min=10.6 -lxml2 -Xlinker -objc_abi_version -Xlinker 2 -framework MapKit -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/GooglePlacesAPIDemo0#
+
+CProcessInfoPlistFile /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/Info.plist GooglePlacesAPIDemo/GooglePlacesAPIDemo-Info.plist
+s332351573.618890
+e332351573.622148
+r1
+xProcessInfoPlistFile
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/Info.plist
+xGooglePlacesAPIDemo/GooglePlacesAPIDemo-Info.plist
+lSLF07#2@58"Process GooglePlacesAPIDemo/GooglePlacesAPIDemo-Info.plist332351573#332351573#0(0"0(0#0#91"/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemo-Info.plist8634581728#541"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GooglePlacesAPIDemo/GooglePlacesAPIDemo-Info.plist -genpkginfo /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch.gch GooglePlacesAPIDemo/GooglePlacesAPIDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s332351573.622278
+e332351574.206932
+r1
+xProcessPCH
+x/var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch.gch
+xGooglePlacesAPIDemo/GooglePlacesAPIDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@61"Precompile GooglePlacesAPIDemo/GooglePlacesAPIDemo-Prefix.pch332351573#332351574#0(0"0(0#0#91"/Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemo-Prefix.pch8632137408#2269"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-generated-files.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-own-target-headers.hmap -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/GooglePlacesAPIDemo-project-headers.hmap -F/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/GooglePlacesAPIDemo/build/GooglePlacesAPIDemo.build/Debug-iphonesimulator/GooglePlacesAPIDemo.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c /Users/mayur/Desktop/GooglePlacesAPIDemo/GooglePlacesAPIDemo/GooglePlacesAPIDemo-Prefix.pch -o /var/folders/Pu/PubPiGu3HzSopTTRZKHgS++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GooglePlacesAPIDemo-Prefix-dmxapvczoajpzzdtiaaafafqhelp/GooglePlacesAPIDemo-Prefix.pch.gch0#
+
+CTouch /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app
+s332351574.880220
+e332351574.883081
+r1
+xTouch
+x/Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app
+lSLF07#2@98"Touch /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app332351574#332351574#0(0"0(0#0#0"8633673792#294"    cd /Users/mayur/Desktop/GooglePlacesAPIDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mayur/Desktop/GooglePlacesAPIDemo/build/Debug-iphonesimulator/GooglePlacesAPIDemo.app0#
+

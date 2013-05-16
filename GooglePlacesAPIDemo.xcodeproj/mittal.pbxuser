@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	8655CD6E13AF40FD001C8999 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DE938BA71743A72600FDBE51 /* GooglePlacesAPIDemo */;
+		activeTarget = 8655CD7613AF40FD001C8999 /* GooglePlacesAPIDemo */;
+		codeSenseManager = DE938BC51743A72A00FDBE51 /* Code sense */;
+		executables = (
+			DE938BA71743A72600FDBE51 /* GooglePlacesAPIDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 390309670;
+			PBXWorkspaceStateSaveDate = 390309670;
+		};
+		sourceControlManager = DE938BC41743A72A00FDBE51 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8655CD7613AF40FD001C8999 /* GooglePlacesAPIDemo */ = {
+		activeExec = 0;
+		executables = (
+			DE938BA71743A72600FDBE51 /* GooglePlacesAPIDemo */,
+		);
+	};
+	DE938BA71743A72600FDBE51 /* GooglePlacesAPIDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GooglePlacesAPIDemo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	DE938BC41743A72A00FDBE51 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DE938BC51743A72A00FDBE51 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

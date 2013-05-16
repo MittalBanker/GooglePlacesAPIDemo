@@ -1,0 +1,137 @@
+// !$*UTF8*$!
+{
+	7710D1D113CF4932001FE9D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8655CD9613AF412E001C8999 /* PlacesTableViewController.m */;
+		name = "PlacesTableViewController.m: 12";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 1018;
+		vrLoc = 0;
+	};
+	77C4544F13D5436E0015E2F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8655CD9613AF412E001C8999 /* PlacesTableViewController.m */;
+		name = "PlacesTableViewController.m: 12";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 941;
+		vrLoc = 0;
+	};
+	77E1748413CEAC9A0085796B /* GooglePlacesAPIDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 0;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GooglePlacesAPIDemo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	77E1749A13CEACBA0085796B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	77E1749B13CEACBA0085796B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	77E1749C13CEACC10085796B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8655CD9513AF412E001C8999 /* PlacesTableViewController.h */;
+		name = "PlacesTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 0;
+	};
+	8655CD6E13AF40FD001C8999 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 77E1748413CEAC9A0085796B /* GooglePlacesAPIDemo */;
+		activeTarget = 8655CD7613AF40FD001C8999 /* GooglePlacesAPIDemo */;
+		codeSenseManager = 77E1749B13CEACBA0085796B /* Code sense */;
+		executables = (
+			77E1748413CEAC9A0085796B /* GooglePlacesAPIDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1153,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 332743527;
+			PBXWorkspaceStateSaveDate = 332743527;
+		};
+		perUserProjectItems = {
+			7710D1D113CF4932001FE9D4 /* PBXTextBookmark */ = 7710D1D113CF4932001FE9D4 /* PBXTextBookmark */;
+			77C4544F13D5436E0015E2F2 /* PBXTextBookmark */ = 77C4544F13D5436E0015E2F2 /* PBXTextBookmark */;
+			77E1749C13CEACC10085796B /* PBXTextBookmark */ = 77E1749C13CEACC10085796B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 77E1749A13CEACBA0085796B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8655CD7613AF40FD001C8999 /* GooglePlacesAPIDemo */ = {
+		activeExec = 0;
+		executables = (
+			77E1748413CEAC9A0085796B /* GooglePlacesAPIDemo */,
+		);
+	};
+	8655CD9513AF412E001C8999 /* PlacesTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 506}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 469}";
+		};
+	};
+	8655CD9613AF412E001C8999 /* PlacesTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 3184}}";
+			sepNavSelRange = "{379, 0}";
+			sepNavVisRange = "{0, 941}";
+		};
+	};
+}
